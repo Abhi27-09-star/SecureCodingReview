@@ -65,7 +65,7 @@ SecureCodingReview/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/SecureCodingReview.git
+git clone https://github.com/Abhi27-09-star/SecureCodingReview.git
 ```
 
 ### Navigate to the project
@@ -240,7 +240,7 @@ pip install flask bandit
 
 ## Author
 
-**Abhilash Reddy**
+**Abbadi Abilash**
 
 ---
 
